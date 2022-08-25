@@ -350,5 +350,186 @@ ul li:before{
     margin-right: 100px;
     margin-top: -170px;
 }
+@media only screen and (max-width:500px) {
+    img[src="logo.svg"]{
+        margin-left: 30px;
+        margin-top: 30px;
+    } 
+    .navigation{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-bottom: -120px;
+        font-size: 18px;
+        font-family: sans-serif;
+        font-weight: -lighter;
+        margin-right: 0px;
+    }
+    .button1{
+        margin-left: 250px;
+        margin-top: -270px;
+        margin-bottom: 90px;
+        width: 180px;
+        height: 70px;
+        border-radius: 10px;
+        background-color: #ffffff;
+        color: #00ffff;
+        font-size: 16px;
+        border: 2px solid  #00ffff;
+} 
+.button2{
+    margin-left: 10px;
+}
+.button3{
+    margin-left: 10px;
+    margin-top: -270px;
+}
+.button4{
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.button8{
+    margin-left: 330px;
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+.first{
+    font-size: 40px;
+    margin-left: 40px;
+    font-family: sans-serif;
+}
+.second{
+    font-size: 35px;
+    margin-left: 20px;
+}
+.third{
+    font-size: 35px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.four{
+    font-size: 45px;
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.five{
+    margin-left: 10px;
+}
+.five1{
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.contain1{
+    margin-left: 20px;
+    margin-bottom: 40px;
+}
+.contain2{
+    margin-left: 10px;
+    margin-bottom: 530px;
+}
+.contain4{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.contain5{
+    margin-left: 0px;
+}
+img[src="_0000_settings.png"]{
+    margin-top: -100px;
+    margin-left: 0px;
+    width: 450px;
+    margin-bottom: -0px;
+}
+img[src="technical support illustration-01.svg"]{
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.one{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.one11{
+    font-size: 14px;
+}
+.two2{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.two22{
+    font-size: 14px;
+}
+.web{
+    margin-right: 70px;
+    margin-left: 60px; 
+}
+.botm1{
+    margin-left: 40px;
+    margin-right: 30px;
+}
+.botm2{
+    margin-left: 60px;
+    margin-top: 30px;
+}
+.deep{
+    padding-bottom: 20px;
+}
+.card1{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+.card2{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.card3{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.card5{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card6{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+.card7{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -70px;
+}
+.card8{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+}
+.deeper{
+    margin-left: 20px;
+}
+.menus{
+    margin-left: 20px;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.menu{
+    margin-left: 20px;
+}
+.link{
+    margin-left: 50px;
+}
+.Terms{
+    margin-left: 20px;
+}
+}
+
 
 
